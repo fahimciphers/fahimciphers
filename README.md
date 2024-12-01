@@ -1,10 +1,12 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://fahimciphers.github.io)
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=500&color=35F7F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Fahim+Muntasir+Siam!;Welcome+to+my+profile!" alt="Typing SVG" />
-</h1>
+<div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Fahim+Muntasir!" alt="Typing SVG" />
+  </h1>
+</div>
 
-<h3 align="center">A Passionate Full-Stack Developer and Ethical Hacker from Bangladesh</h3>
+<h3 align="center" style="color: white;">A Passionate Full-Stack Developer and Ethical Hacker from Bangladesh</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=fahimciphers&label=Profile%20views&color=0e75b6&style=flat" alt="fahimciphers" /> 
@@ -73,7 +75,3 @@
 ![Fahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahimciphers&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahimciphers&layout=compact&theme=tokyonight)
-
----
-
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=fahimciphers&theme=tokyo-night)](https://github.com/fahimciphers)
