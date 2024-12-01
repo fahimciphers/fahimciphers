@@ -1,5 +1,4 @@
-
-<h1 align="center">Hi 👋, I'm Fahim Muntasir Siam</h1>
+<h1 align="center" class="animated-text">Hi 👋, I'm Fahim Muntasir Siam</h1>
 <h3 align="center">A passionate FullStack Developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -40,4 +39,44 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahimciphers&show_icons=true&locale=en&theme=tokyonight" alt="fahimciphers" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahimciphers&&theme=tokyonight" alt="fahimciphers" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahimciphers&&theme=tokyonight" alt="fahimciphers" /></p>  
+
+<style>
+  /* Add some basic styles for centering */
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+
+  /* Style for the animated text */
+  .animated-text {
+    color: black;
+    font-size: 3rem;
+    overflow: hidden;
+    border-right: .15em solid black; /* Cursor effect */
+    white-space: nowrap;
+    margin: 0 auto;
+    animation: typing 3.5s steps(30) 1s 1 normal both, blink-caret .75s step-end infinite;
+  }
+
+  /* Keyframe for typing effect */
+  @keyframes typing {
+    from {
+      width: 0;
+    }
+    to {
+      width: 100%;
+    }
+  }
+
+  /* Keyframe for the blinking cursor */
+  @keyframes blink-caret {
+    50% {
+      border-color: transparent;
+    }
+  }
+</style>
