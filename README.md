@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/fahimciphers/fahimciphers/issues)**
 
-- 📫 How to reach me **fmuntasir948@gmail.com**
+- 📫 How to reach me **fahimciphers@gmail.com**
 
 - ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
