@@ -1,9 +1,7 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://fahimciphers.github.io)
 
 <div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Fahim+Muntasir!" alt="Typing SVG" />
-  </h1>
+  
 </div>
 
 <h3 align="center" style="color: white;">A Passionate Full-Stack Developer and Ethical Hacker from Bangladesh</h3>
