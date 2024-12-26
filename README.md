@@ -46,6 +46,9 @@ Feel free to collaborate with me on exciting cybersecurity and ethical hacking p
   <img src="https://github.com/FahimCiphers/FahimCiphers/blob/main/line.gif" width="900">
 </p>
 
+### GitHub Activity Graph
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FahimCiphers&bg_color=000000&color=53f547&line=65f207&point=2c42ed&area=true&hide_border=true)](https://github.com/FahimCiphers/github-readme-activity-graph)
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/FahimCiphers/count.svg" />
