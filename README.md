@@ -1,15 +1,15 @@
 <p align="center">
-<img src="https://github.com/fahimciphers/kali-Linux-Android/releases/download/1/removebackground.png" height="80">
+
 </p>
 <div align="center">
 <h2 style="text-align: center; color: #0074D9;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0074D9&random=false&width=435&lines=Hello%2C+I'm+Fahim+Muntasir+👋" alt="Typing SVG" />
+ 
 </h2>
 
 I'm a passionate developer, coder, and ethical hacker with a knack for solving challenges one line of code at a time. 🚀
 
 [![GitHub followers](https://img.shields.io/github/followers/fahimciphers?label=Follow&style=social)](https://github.com/fahimciphers)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fahim-muntasir)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fahimciphers)
 <a href="https://instagram.com/fahimciphers"><img src="https://img.shields.io/badge/Instagram-Follow%20@Fahim-E1306C"/></a>
 </div>
 <p align="center">
