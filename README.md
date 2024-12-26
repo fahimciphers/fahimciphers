@@ -1,54 +1,81 @@
 <p align="center">
-  <a href="https://github.com/fahimciphers">
-    <img src="https://avatars.githubusercontent.com/u/84739872" width="225" height="225" alt="Fahim Muntasir">
-  </a>
+<img src="https://github.com/fahimciphers/kali-Linux-Android/releases/download/1/removebackground.png" height="80">
 </p>
+<div align="center">
+<h2 style="text-align: center; color: #0074D9;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0074D9&random=false&width=435&lines=Hello%2C+I'm+Fahim+Muntasir+👋" alt="Typing SVG" />
+</h2>
 
-<h1 align="center">Infinite Possibilities - Choose One and Run!</h1>
+I'm a passionate developer, coder, and ethical hacker with a knack for solving challenges one line of code at a time. 🚀
 
-### Contact:
-Fahim Muntasir is always open for any suggestions or help. <a href="mailto:fahimciphers@gmail.com">Mail Me!</a>
-
----
-
-## Profile Status:
+[![GitHub followers](https://img.shields.io/github/followers/fahimciphers?label=Follow&style=social)](https://github.com/fahimciphers)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fahim-muntasir)
+<a href="https://instagram.com/fahimciphers"><img src="https://img.shields.io/badge/Instagram-Follow%20@Fahim-E1306C"/></a>
+</div>
 <p align="center">
-  <a href="https://github.com/fahimciphers">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fahimciphers&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Most Used Languages">
-  </a>
-</p>
-
+<br/>
+  <img src="https://github.com/fahimciphers/fahimciphers/blob/e7c43b9c8e4e68b1b93967704dc8158b2ff8e552/line.gif" width="900">
 <p align="center">
-  <a href="https://github.com/fahimciphers">
-    <img src="https://github-readme-stats.vercel.app/api?username=fahimciphers&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats">
-  </a>
+<img src="https://github.com/fahimciphers/fahimciphers/releases/download/L2/v.png">
 </p>
+</p>
+<img src="https://github.com/fahimciphers/fahimciphers/blob/e7c43b9c8e4e68b1b93967704dc8158b2ff8e552/line.gif" width="900">
 
----
+## About Me
 
-## Some Useful Tools:
+- 🔭 I'm currently working on https://fahimciphers.github.io
+- 🌱 I'm constantly learning and exploring new technologies and tools.
+- 📫 How to reach me: [fahimciphers@gmail.com](mailto:fahimciphers@gmail.com)
+- 😄 Pronouns: He/Him
 
-- **[fahimciphers](https://github.com/fahimciphers/fahimciphers):** Config files for my GitHub profile.
-  [![fahimciphers](https://github-readme-stats.vercel.app/api/pin/?username=fahimciphers&repo=fahimciphers&theme=algolia)](https://github.com/fahimciphers/fahimciphers)
+## Tech Stack
 
-- **[telegram-username-checker](https://github.com/fahimciphers/telegram-username-checker):** A tool to check Telegram username availability.
-  [![telegram-username-checker](https://github-readme-stats.vercel.app/api/pin/?username=fahimciphers&repo=telegram-username-checker&theme=algolia)](https://github.com/fahimciphers/telegram-username-checker)
+Here are some of the technologies and tools I frequently work with:
 
-- **[nagad-lock-script](https://github.com/fahimciphers/nagad-lock-script):** A Python script to enhance security for Nagad transactions.
-  [![nagad-lock-script](https://github-readme-stats.vercel.app/api/pin/?username=fahimciphers&repo=nagad-lock-script&theme=algolia)](https://github.com/fahimciphers/nagad-lock-script)
+- 💻 Programming Languages: Python, JavaScript, Bash
+- 🛠️ Frameworks & Libraries: React, Node.js
+- 🌐 Web Technologies: HTML5, CSS3, GraphQL
+- 📦 Databases: MongoDB, MySQL
+- 🖥️ DevOps & Tools: Docker, Git, AWS
+- 🔒 Cybersecurity & Ethical Hacking: Nmap, Metasploit, Wireshark, Burp Suite, Aircrack-ng, Nikto, WifiTe, etc.
 
-- **[Fahim](https://github.com/fahimciphers/Fahim):** A personal HTML project showcasing branding and web development skills.
-  [![Fahim](https://github-readme-stats.vercel.app/api/pin/?username=fahimciphers&repo=Fahim&theme=algolia)](https://github.com/fahimciphers/Fahim)
+## Projects
 
-- **[3d-Portfolio](https://github.com/fahimciphers/3d-Portfolio):** A 3D portfolio template using JavaScript and CSS.
-  [![3d-Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=fahimciphers&repo=3d-Portfolio&theme=algolia)](https://github.com/fahimciphers/3d-Portfolio)
+Here are a few projects I'm proud of:
 
-- **[Black-Hat-Bd](https://github.com/fahimciphers/Black-Hat-Bd):** A CSS-based project showcasing Black Hat themes.
-  [![Black-Hat-Bd](https://github-readme-stats.vercel.app/api/pin/?username=fahimciphers&repo=Black-Hat-Bd&theme=algolia)](https://github.com/fahimciphers/Black-Hat-Bd)
+- [ANDRO](https://github.com/fahimciphers/ANDRO): A cloud-based remote Android management suite.
+- [LinuxDroid](https://github.com/fahimciphers/LinuxDroid): Linux on Android e.g., Kali NetHunter, Ubuntu GUI/CLI, Arch Linux CLI.
+- [WifiJAM](https://github.com/fahimciphers/WIFIjam): Python WiFi Deauthentication Script.
 
----
+## Connect with Me
 
-## Visitors:
+Let's connect and collaborate on exciting projects:
+
+- 📧 Email: [fahimciphers@gmail.com](mailto:fahimciphers@gmail.com)
+- 💼 LinkedIn: [@fahim-muntasir](https://www.linkedin.com/in/fahim-muntasir)
+- <img src="https://github.com/fahimciphers/fahimciphers/blob/main/Instagram.png" height="15"> Instagram: [@fahimciphers](https://instagram.com/fahimciphers)
+
+Feel free to reach out, and let's build something amazing together! 🚀
 <p align="center">
-  <img src="https://profile-counter.glitch.me/fahimciphers/count.svg" alt="Visitor Count">
+<img src="https://github.com/fahimciphers/Logo/releases/download/L1/AT-HD-removebg-preview.png" height="50"></p>
+
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fahimciphers&bg_color=000000&color=53f547&line=65f207&point=2c42ed&area=true&hide_border=true)](https://github.com/fahimciphers/github-readme-activity-graph)
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fahimciphers&theme=aura" alt="Repos per Language" width="45%" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fahimciphers&theme=aura" alt="Most Commit Language" width="45%" />
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fahimciphers&theme=aura" alt="GitHub Stats" width="45%" />
+</div>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/fahimciphers/count.svg" />
 </p>
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=fahimciphers&show_icons=true&theme=dark)](https://github.com/fahimciphers)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fahimciphers&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-contributor-stats.vercel.app/api?username=fahimciphers&limit=5&theme=dark&combine_all_yearly_contributions=true)
